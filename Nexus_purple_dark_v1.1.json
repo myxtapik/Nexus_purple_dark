@@ -1,0 +1,61 @@
+{
+  "manifest": {
+    "name": "Nexus Purple Dark",
+    "author": "myxtarik#0333 | thanks ^^",
+    "version": "1.1"
+  },
+  "fonts": {
+    "ginto_bold": "https://github.com/vicefriedrice/fonts/raw/refs/heads/main/Roboto-Bold.ttf",
+    "ginto_medium": "https://github.com/vicefriedrice/fonts/raw/refs/heads/main/Roboto-Medium.ttf",
+    "ginto_regular": "https://github.com/vicefriedrice/fonts/raw/refs/heads/main/Roboto-Regular.ttf",
+    "roboto_medium_numbers": "https://github.com/vicefriedrice/fonts/raw/refs/heads/main/Roboto-Medium.ttf",
+    "sourcecodepro_semibold": "https://github.com/vicefriedrice/fonts/raw/refs/heads/main/Roboto-SemiBold.ttf",
+    "whitney_bold": "https://github.com/vicefriedrice/fonts/raw/refs/heads/main/Roboto-Bold.ttf",
+    "whitney_medium": "https://github.com/vicefriedrice/fonts/raw/refs/heads/main/Roboto-Medium.ttf",
+    "whitney_semibold": "https://github.com/vicefriedrice/fonts/raw/refs/heads/main/Roboto-SemiBold.ttf"
+  },
+  "simple_colors": {
+    "accent": -10157862,
+    "background": -15663067,
+    "background_secondary": -16187372,
+    "mention_highlight": 510001370,
+    "active_channel": -10157862
+  },
+  "colors": {
+    "brand_new": -10157862,
+    "brand_new_500": -10157862,
+    "primary_dark_600": -15663067,
+    "primary_dark_800": -16187372,
+    "primary_dark_700": -14876607,
+    "background_mobile_primary": -15663067,
+    "background_mobile_secondary": -16187372,
+    "status_green": -10157862,
+    "status_red": -10157862,
+    "status_yellow": -10157862,
+    "status_grey": -10157862,
+    "bot_badge_bg": -10157862,
+    "text_mention_highlight": -10157862,
+    "message_list_item_highlighted_background": 510001370,
+    "text_normal": -1,
+    "interactive_normal": -7962152,
+    "interactive_active": -1,
+    "header_primary": -1,
+    "text_muted": -7962152,
+    "link": -6202113
+  },
+  "drawable_tints": {
+    "ic_status_online_16dp": -10157862,
+    "ic_status_dnd_16dp": -10157862,
+    "ic_status_idle_16dp": -10157862,
+    "ic_status_offline_16dp": -10157862,
+    "ic_call_24dp": -7962152,
+    "ic_video_24dp": -7962152,
+    "ic_people_24dp": -7962152,
+    "ic_search_24dp": -7962152,
+    "ic_settings_24dp": -7962152,
+    "ic_channel_text": -7962152,
+    "ic_sidebar_pins_on_dark_24dp": -7962152,
+    "ic_guild_folder": -10157862,
+    "drawable_button_brand_neutral": -10157862
+  }
+}
